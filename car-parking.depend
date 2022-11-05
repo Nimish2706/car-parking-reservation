@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1605603217 source:c:\users\dc\desktop\oops-project\car-parking\main.cpp
+	"funcgotodelay.h"
+	"vipperson.h"
+	"nvipperson.h"
+	<iostream>
+	<winsock.h>
+	<mysql.h>
+	<conio.h>
+
+1605655905 c:\users\dc\desktop\oops-project\car-parking\funcgotodelay.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<winsock.h>
+	<mysql.h>
+	<sstream>
+
+1605605452 c:\users\dc\desktop\oops-project\car-parking\vipperson.h
+	"funcgotodelay.h"
+	"email.h"
+	<iomanip>
+	<sstream>
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1605605451 c:\users\dc\desktop\oops-project\car-parking\nvipperson.h
+	"funcgotodelay.h"
+	<iostream>
+	<winsock.h>
+	<windows.h>
+	<mysql.h>
+
+1605599749 c:\users\dc\desktop\oops-project\car-parking\email.h
+	<iostream>
+	"funcgotodelay.h"
+	<fstream>
+	<unistd.h>
+
+1605603217 source:c:\users\nimish\downloads\car-parking\main.cpp
+	"funcgotodelay.h"
+	"vipperson.h"
+	"nvipperson.h"
+	<iostream>
+	<winsock.h>
+	<mysql.h>
+	<conio.h>
+
+1605665909 c:\users\nimish\downloads\car-parking\funcgotodelay.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<winsock.h>
+	<mysql.h>
+	<sstream>
+
+1605605452 c:\users\nimish\downloads\car-parking\vipperson.h
+	"funcgotodelay.h"
+	"email.h"
+	<iomanip>
+	<sstream>
+	<winsock.h>
+	<mysql.h>
+	<windows.h>
+
+1605599749 c:\users\nimish\downloads\car-parking\email.h
+	<iostream>
+	"funcgotodelay.h"
+	<fstream>
+	<unistd.h>
+
+1605605451 c:\users\nimish\downloads\car-parking\nvipperson.h
+	"funcgotodelay.h"
+	<iostream>
+	<winsock.h>
+	<windows.h>
+	<mysql.h>
+
